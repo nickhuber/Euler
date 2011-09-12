@@ -1,6 +1,6 @@
 require 'mathn'
 
-num = 317_584_931_803
+num = 600_851_475_143
 factor = 0
 primes = Prime.new
 
