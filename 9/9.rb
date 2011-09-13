@@ -7,6 +7,7 @@
       if i * i + j * j == k * k
         if i + j + k == 1000
           puts "#{i} * #{j} * #{k} = #{i * j * k}"
+          exit
         end
       end
     end
