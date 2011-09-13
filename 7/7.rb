@@ -1,6 +1,6 @@
 require 'mathn'
 
-primes = Prime.new
+primes = Prime.each
 prime = 0
 
 10_001.times do
